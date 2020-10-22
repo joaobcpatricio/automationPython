@@ -109,3 +109,266 @@ http://requirejs.org/docs/errors.html#scripterror
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1603314666744	Marionette	INFO	Stopped listening on port 40469
+1603389804639	geckodriver	INFO	Listening on 127.0.0.1:32811
+1603389805647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyA97ee"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFDA0E94F70, 4096)
+Sandbox: seccomp sandbox violation: pid 6009, tid 6009, syscall 262, args 25 140465435476734 140727303098224 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDA0E94F70, 4096)
+Sandbox: seccomp sandbox violation: pid 6009, tid 6009, syscall 262, args 26 140465435476734 140727303098224 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFE05D85160, 4096)
+Sandbox: seccomp sandbox violation: pid 6029, tid 6029, syscall 262, args 24 140198150083326 140728996483424 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFE05D85160, 4096)
+Sandbox: seccomp sandbox violation: pid 6029, tid 6029, syscall 262, args 24 140198150083326 140728996483424 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFD7300E340, 4096)
+Sandbox: seccomp sandbox violation: pid 6102, tid 6102, syscall 262, args 24 139864330081022 140726532891456 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD7300E340, 4096)
+Sandbox: seccomp sandbox violation: pid 6102, tid 6102, syscall 262, args 25 139864330081022 140726532891456 4096 4096 1.
+1603389807168	Marionette	INFO	Listening on port 41077
+1603389807253	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript warning: https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js, line 1: Script terminated by timeout at:
+He/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28357
+He@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28161
+Ye@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29341
+Ve/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29620
+Ve@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29554
+Ae/ke</<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:20100
+Ae/ke<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:19890
+
+1603396363854	geckodriver	INFO	Listening on 127.0.0.1:49491
+1603396363858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegx1R9Q"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDA7451730, 4096)
+Sandbox: seccomp sandbox violation: pid 7288, tid 7288, syscall 262, args 26 139744482628350 140727409776432 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDA7451730, 4096)
+Sandbox: seccomp sandbox violation: pid 7288, tid 7288, syscall 262, args 27 139744482628350 140727409776432 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFDF7661020, 4096)
+Sandbox: seccomp sandbox violation: pid 7308, tid 7308, syscall 262, args 25 140099619533566 140728754114592 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFDF7661020, 4096)
+Sandbox: seccomp sandbox violation: pid 7308, tid 7308, syscall 262, args 25 140099619533566 140728754114592 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFD912FAF20, 4096)
+Sandbox: seccomp sandbox violation: pid 7381, tid 7381, syscall 262, args 24 140159317234430 140727039274784 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFD912FAF20, 4096)
+Sandbox: seccomp sandbox violation: pid 7381, tid 7381, syscall 262, args 24 140159317234430 140727039274784 4096 4096 1.
+1603396365368	Marionette	INFO	Listening on port 34693
+1603396365464	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603396401861	Marionette	INFO	Stopped listening on port 34693
+1603396685875	geckodriver	INFO	Listening on 127.0.0.1:55325
+1603396685878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRrzQEM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFDDAD10B0, 4096)
+Sandbox: seccomp sandbox violation: pid 7680, tid 7680, syscall 262, args 26 140691388482302 140736912494768 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFFDDAD10B0, 4096)
+Sandbox: seccomp sandbox violation: pid 7680, tid 7680, syscall 262, args 27 140691388482302 140736912494768 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFC839E7560, 4096)
+Sandbox: seccomp sandbox violation: pid 7700, tid 7700, syscall 262, args 24 140608665604862 140722516686176 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFC839E7560, 4096)
+Sandbox: seccomp sandbox violation: pid 7700, tid 7700, syscall 262, args 24 140608665604862 140722516686176 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFEF2418880, 4096)
+Sandbox: seccomp sandbox violation: pid 7771, tid 7771, syscall 262, args 24 140671688512254 140732962801792 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFEF2418880, 4096)
+Sandbox: seccomp sandbox violation: pid 7771, tid 7771, syscall 262, args 24 140671688512254 140732962801792 4096 4096 1.
+1603396687546	Marionette	INFO	Listening on port 42949
+1603396687586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1603396702389	Marionette	INFO	Stopped listening on port 42949
+1603396800515	geckodriver	INFO	Listening on 127.0.0.1:33585
+1603396800519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Bnd74"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCF2130970, 4096)
+Sandbox: seccomp sandbox violation: pid 7994, tid 7994, syscall 262, args 26 140403737391870 140724369820016 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCF2130970, 4096)
+Sandbox: seccomp sandbox violation: pid 7994, tid 7994, syscall 262, args 27 140403737391870 140724369820016 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD98B08AF0, 4096)
+Sandbox: seccomp sandbox violation: pid 8014, tid 8014, syscall 262, args 25 139837925544702 140727165160176 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD98B08AF0, 4096)
+Sandbox: seccomp sandbox violation: pid 8014, tid 8014, syscall 262, args 25 139837925544702 140727165160176 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFC7D19B430, 4096)
+Sandbox: seccomp sandbox violation: pid 8090, tid 8090, syscall 262, args 24 139877604180734 140722407322672 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFC7D19B430, 4096)
+Sandbox: seccomp sandbox violation: pid 8090, tid 8090, syscall 262, args 24 139877604180734 140722407322672 4096 4096 1.
+1603396801968	Marionette	INFO	Listening on port 40321
+1603396802023	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603396818273	Marionette	INFO	Stopped listening on port 40321
+1603396848410	geckodriver	INFO	Listening on 127.0.0.1:41793
+1603396848413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8YspdD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE59C931D0, 4096)
+Sandbox: seccomp sandbox violation: pid 8277, tid 8277, syscall 262, args 26 140206584271614 140730404778448 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFE59C931D0, 4096)
+Sandbox: seccomp sandbox violation: pid 8277, tid 8277, syscall 262, args 27 140206584271614 140730404778448 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFEF5E8EBC0, 4096)
+Sandbox: seccomp sandbox violation: pid 8297, tid 8297, syscall 262, args 24 140567939187454 140733024103360 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFEF5E8EBC0, 4096)
+Sandbox: seccomp sandbox violation: pid 8297, tid 8297, syscall 262, args 28 140567939187454 140733024103360 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFCD43A2270, 4096)
+Sandbox: seccomp sandbox violation: pid 8373, tid 8373, syscall 262, args 24 140655880995582 140723869065840 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFCD43A2270, 4096)
+Sandbox: seccomp sandbox violation: pid 8373, tid 8373, syscall 262, args 24 140655880995582 140723869065840 4096 4096 1.
+1603396849881	Marionette	INFO	Listening on port 44467
+1603396849917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/api/config", needed by: /common/requireconfig.js
+http://requirejs.org/docs/errors.html#scripterror
+1603396874119	Marionette	INFO	Stopped listening on port 44467
+1603396879048	geckodriver	INFO	Listening on 127.0.0.1:44473
+1603396879051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemf9Fle"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD2CBEB0C0, 4096)
+Sandbox: seccomp sandbox violation: pid 8599, tid 8599, syscall 262, args 27 140621781078782 140725354148032 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD2CBEB0C0, 4096)
+Sandbox: seccomp sandbox violation: pid 8599, tid 8599, syscall 262, args 27 140621781078782 140725354148032 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFF6B05DBB0, 4096)
+Sandbox: seccomp sandbox violation: pid 8619, tid 8619, syscall 262, args 24 140695239185150 140734988934064 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFF6B05DBB0, 4096)
+Sandbox: seccomp sandbox violation: pid 8619, tid 8619, syscall 262, args 28 140695239185150 140734988934064 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFCD8446990, 4096)
+Sandbox: seccomp sandbox violation: pid 8693, tid 8693, syscall 262, args 25 139818038137598 140723936848272 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCD8446990, 4096)
+Sandbox: seccomp sandbox violation: pid 8693, tid 8693, syscall 262, args 26 139818038137598 140723936848272 4096 4096 1.
+1603396880646	Marionette	INFO	Listening on port 36697
+1603396880668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/bower_components/nthen/index.js", needed by: /customize/template.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/common/hyperscript.js", needed by: /customize/template.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/bower_components/require-css/css.js", needed by: /bower_components/require-css/css.js!/bower_components/components-font-awesome/css/font-awesome.min.css_unnormalized2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "jquery", needed by: /customize/template.js
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/customize/pages.js", needed by: /customize/template.js
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1603396925727	geckodriver	INFO	Listening on 127.0.0.1:38805
+1603396925730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyLgpvF"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFCE3A56490, 4096)
+Sandbox: seccomp sandbox violation: pid 8926, tid 8926, syscall 262, args 25 140578769892094 140724127753360 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCE3A56490, 4096)
+Sandbox: seccomp sandbox violation: pid 8926, tid 8926, syscall 262, args 26 140578769892094 140724127753360 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFFAC1897D0, 4096)
+Sandbox: seccomp sandbox violation: pid 8981, tid 8981, syscall 262, args 24 139842649686782 140736080680912 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFFAC1897D0, 4096)
+Sandbox: seccomp sandbox violation: pid 8981, tid 8981, syscall 262, args 24 139842649686782 140736080680912 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD072FD030, 4096)
+Sandbox: seccomp sandbox violation: pid 9048, tid 9048, syscall 262, args 25 139877251339006 140724724027440 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD072FD030, 4096)
+Sandbox: seccomp sandbox violation: pid 9048, tid 9048, syscall 262, args 25 139877251339006 140724724027440 4096 4096 1.
+1603396927336	Marionette	INFO	Listening on port 39699
+1603396927435	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d7000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d7000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d9000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d9000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d8800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 8693, MediaDecoderStateMachine #1] WARNING: Decoder=7f284a8d8800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static mozilla::MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream*): Cannot parse metadata: file /build/firefox-CYIJno/firefox-81.0/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js, line 1: Script terminated by timeout at:
+He/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28357
+He@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28161
+Ye@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29357
+Ve/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29620
+Ve@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29554
+Ae/ke</<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:20100
+Ae/ke<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:19890
+
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/customize/main.js"
+http://requirejs.org/docs/errors.html#scripterror
+1603396971110	geckodriver	INFO	Listening on 127.0.0.1:57629
+1603396971113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenHZ9fg"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFCDE494300, 4096)
+Sandbox: seccomp sandbox violation: pid 9469, tid 9469, syscall 262, args 25 139772218454782 140724037829376 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCDE494300, 4096)
+Sandbox: seccomp sandbox violation: pid 9469, tid 9469, syscall 262, args 26 139772218454782 140724037829376 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFF4D089C10, 4096)
+Sandbox: seccomp sandbox violation: pid 9489, tid 9489, syscall 262, args 24 140170994176766 140734485797904 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFF4D089C10, 4096)
+Sandbox: seccomp sandbox violation: pid 9489, tid 9489, syscall 262, args 28 140170994176766 140734485797904 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFDEAD381B0, 4096)
+Sandbox: seccomp sandbox violation: pid 9566, tid 9566, syscall 262, args 24 139988015678206 140728543183280 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFDEAD381B0, 4096)
+Sandbox: seccomp sandbox violation: pid 9566, tid 9566, syscall 262, args 24 139988015678206 140728543183280 4096 4096 1.
+1603396972613	Marionette	INFO	Listening on port 38455
+1603396972618	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603396981928	geckodriver	INFO	Listening on 127.0.0.1:45871
+1603396981931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ctatK"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFD018B2300, 4096)
+Sandbox: seccomp sandbox violation: pid 9743, tid 9743, syscall 262, args 26 140133100450558 140724629349120 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD018B2300, 4096)
+Sandbox: seccomp sandbox violation: pid 9743, tid 9743, syscall 262, args 27 140133100450558 140724629349120 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(24, "", 0x7FFFB7964E90, 4096)
+Sandbox: seccomp sandbox violation: pid 9763, tid 9763, syscall 262, args 24 140039358386942 140736273469072 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFFB7964E90, 4096)
+Sandbox: seccomp sandbox violation: pid 9763, tid 9763, syscall 262, args 28 140039358386942 140736273469072 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFC81432720, 4096)
+Sandbox: seccomp sandbox violation: pid 9845, tid 9845, syscall 262, args 25 140666393907966 140722477147936 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFC81432720, 4096)
+Sandbox: seccomp sandbox violation: pid 9845, tid 9845, syscall 262, args 25 140666393907966 140722477147936 4096 4096 1.
+1603396983489	Marionette	INFO	Listening on port 41537
+1603396983537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs/require.js?ver=2.3.5, line 168: Error: Script error for "/customize/main.js"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://crypt.parrot.sh/common/boot2.js?ver=3.23.1-1603325101507, line 46: uncaught exception: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://crypt.parrot.sh/bower_components/requirejs-plugins/src/json.js?ver=3.23.1-1603325101507, line 37: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1603397001897	Marionette	INFO	Stopped listening on port 41537
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 309: TypeError: this._captureQueue is undefined
+1603397006631	Marionette	INFO	Stopped listening on port 38455
+JavaScript warning: https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js, line 1: Script terminated by timeout at:
+He/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28357
+He@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:28161
+Ye@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29357
+Ve/<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29620
+Ve@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:29554
+Ae/ke</<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:20100
+Ae/ke<@https://kit-pro.fontawesome.com/releases/latest/js/pro.min.js:1:19890
+
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD16691D30, 4096)
+Sandbox: seccomp sandbox violation: pid 9077, tid 9077, syscall 262, args 27 140133446877950 140724979440944 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD16691D30, 4096)
+Sandbox: seccomp sandbox violation: pid 9077, tid 9077, syscall 262, args 27 140133446877950 140724979440944 4096 4096 1.
+1603397078214	Marionette	INFO	Stopped listening on port 39699
+1603397085672	Marionette	INFO	Stopped listening on port 36697
